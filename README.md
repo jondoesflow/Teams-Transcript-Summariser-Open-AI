@@ -3,4 +3,4 @@ This is a repo for a Power Automate cloud flow solution that allows the user to 
 
 See here for more details - https://www.jondoesflow.com/post/teams-transcript-summariser-with-gpt4-in-power-automate
 
-Please use the latest version.
+Please use the latest version. (1_0_0_3)
