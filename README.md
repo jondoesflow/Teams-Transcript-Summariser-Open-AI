@@ -24,9 +24,10 @@ Please use the latest version. (1_0_0_3)
 14. Click on Certificates and Secrets
 15. Click New client secret
 16. Make a copy of the value
-17. Go back to the solution import, paste this in the **TS Graph Client Secret** field
-18. Paste the Tenant ID (from step 10) in the **TS Graph Tenant ID** field
-19. Paste the client ID (from step 11) in the **TS Graph Client ID** field
+17. Set the application policy using powershell - https://learn.microsoft.com/en-us/graph/cloud-communication-online-meeting-application-access-policy#allow-applications-to-access-online-meetings-on-behalf-of-a-user
+18. Go back to the solution import, paste this in the **TS Graph Client Secret** field
+19. Paste the Tenant ID (from step 10) in the **TS Graph Tenant ID** field
+20. Paste the client ID (from step 11) in the **TS Graph Client ID** field
 
 Next steps are optional:
 
